@@ -21,6 +21,7 @@ input, button, textarea, select { font: inherit }
 /* Web page */
 body {
     background-color: #FFFFBD;
+    font-family: 'Merriweather', serif;
 }
 
 /* Main heading */
