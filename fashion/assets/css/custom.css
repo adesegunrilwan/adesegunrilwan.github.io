@@ -1,4 +1,6 @@
 /* Add your custom styles here */
+body { font-family: 'Playfair Display', serif; }
+
 section.theme-light.section-selector-1 { background-color: var(--red-300) }
 
 section.theme-light.section-selector-2 { background-color: var(--white-000) }
@@ -7,6 +9,10 @@ section.theme-dark.section-selector-3 { background-color: var(--teal-800) }
 
 section.theme-dark.section-selector-3 h2 { color: white }
 
-body {
-    font-family: 'Playfair Display', serif;
-}
+section.theme-light.section-selector-4 { background-color: var(--green-800) }
+section.theme-light.section-selector-4 .col-1 h3 { color: var(--white-000) }
+section.theme-light.section-selector-4 .col-1 h2 { color: var(--white-000) }
+section.theme-light.section-selector-4 .container-upper-label { color: var(--white-000) }
+section.theme-light.section-selector-4 .col-4 h3 { color: var(--white-000) }
+section.theme-light.section-selector-4 .col-4 figure.icon { color: var(--white-000) }
+
