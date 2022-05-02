@@ -1,0 +1,16 @@
+/* Add your custom styles here */
+
+.theme-one h2 { color: var(--orange-600) } 
+.theme-one h3 { color: var(--orange-600) } 
+.theme-one .upper-label { color: var(--orange-600) }
+.theme-one p { color: var(--black-000) }
+.theme-one li { color: var(--black-000) }
+.theme-one a:not(.btn):focus { color: var(--orange-600) }
+.theme-one a:not(.btn):hover { color: var(--orange-600) } 
+.theme-one a:not(.btn):active { color: var(--orange-600) }
+.theme-one a:not(.btn):link { color: var(--orange-600) }
+.theme-one a:not(.btn):visited { color: var(--orange-600) }
+
+
+
+
